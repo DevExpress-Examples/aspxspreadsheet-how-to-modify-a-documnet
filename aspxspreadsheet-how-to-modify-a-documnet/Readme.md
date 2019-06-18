@@ -1,0 +1,4 @@
+
+This example demonstrates how to modify a document in the ASPxSpreadsheet control.
+The main idea of this approach is to perform a callback using the [PerformCallback]([https://docs.devexpress.com/AspNet/js-ASPxClientSpreadsheet.PerformCallback(parameter)](https://docs.devexpress.com/AspNet/js-ASPxClientSpreadsheet.PerformCallback(parameter))) method and modify a document in the [Callback]([[https://documentation.devexpress.com/AspNet/DevExpress.Web.ASPxSpreadsheet.ASPxSpreadsheet.Callback.event](https://documentation.devexpress.com/AspNet/DevExpress.Web.ASPxSpreadsheet.ASPxSpreadsheet.Callback.event)]) event handler. 
+ 
