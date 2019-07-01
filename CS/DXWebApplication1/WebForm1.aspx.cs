@@ -1,6 +1,7 @@
 ﻿using DevExpress.Spreadsheet;
 using DevExpress.Web.ASPxSpreadsheet;
 using System;
+using DevExpress.Docs;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
