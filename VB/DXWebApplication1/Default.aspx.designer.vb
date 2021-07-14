@@ -19,7 +19,7 @@ Namespace DXWebApplication1
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+		Protected form1 As System.Web.UI.HtmlControls.HtmlForm
 
 		''' <summary>
 		''' ASPxRibbon1 control.
