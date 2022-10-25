@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="DXWebApplication1.WebForm1" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxSpreadsheet.v19.2, Version=19.2.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxSpreadsheet" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.ASPxSpreadsheet.v19.2, Version=19.2.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxSpreadsheet" TagPrefix="dx" %>
 
 <!DOCTYPE html>
 
